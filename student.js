@@ -1,0 +1,11 @@
+console.log("This file is linked!");
+var student ='Sally Jones';
+var program ='Major';
+var Email ='sally@cd.edu';
+var Gpa = 6.0;
+var Courses = 'Calculus Econ 101';
+console.log(student);
+console.log(program);
+console.log(Email);
+console.log(Gpa);
+console.log(Courses);
